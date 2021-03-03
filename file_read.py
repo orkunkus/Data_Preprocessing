@@ -14,5 +14,4 @@ root.withdraw()
 
 # ---Read File Path
 file_path = filedialog.askopenfilename(parent=root, initialdir="/", title='Please select a file')
-    
-
+print(file_path)
