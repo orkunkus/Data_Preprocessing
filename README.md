@@ -19,7 +19,7 @@ Tkinter comes with the Python installer.
 # ---Read File Path
 file_path = filedialog.askopenfilename(parent=root, initialdir="/", title='Please select a file')
 
-### returns the file_path of user choise.
+## returns the file_path of user choice.
 ```
 
 ## Contributing
