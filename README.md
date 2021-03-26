@@ -43,4 +43,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [license-url]: https://github.com/orkunkus/file_get/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/orkunkus
-[product-screenshot]: images/screenshot.png
