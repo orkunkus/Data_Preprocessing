@@ -25,6 +25,9 @@ file_path = filedialog.askopenfilename(parent=root, initialdir="/", title='Pleas
 ## Contributing
 Pull requests are welcome.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
